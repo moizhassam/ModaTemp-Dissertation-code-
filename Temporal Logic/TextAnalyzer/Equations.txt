@@ -1,0 +1,111 @@
+﻿p Λ FH~p
+
+
+FPp→GF(pVPq) kt/s4t/k4t  valid and sat
+~qV(FPp→GF(pVPq)) s4t valid
+p Λ ~GH~q //kt/s4t/kt valid and sat
+FPFPq //kt/s4t/kt valid and sat
+p Λ FH~p //kt/s4t/kt valid and sat
+-------------------Above are final formula testings--------------------------
+
+PpΛFH~p 
+p Λ ~GH~q
+Fp V G(p→Pq) 
+FPp → GF(p V Pq)
+FPp → GGH(p V Pq)
+p Λ FH~p
+FPFPq
+Gp  → F(p→Pq)
+
+
+(Fp Λ (G(p→Pq)))
+
+
+
+Gp Λ F(p→Pq)
+FPp → GF(p V Pq)
+p Λ ~GH~q
+((qV(FpVG(p→G~q))))
+
+
+
+(q→~r)V(□◊qΛ~◊□p)
+((q→~r)V(□◊qΛ~◊□p))
+
+V
+ - L
+ - R
+
+( q V p )
+
+
+(p→◊p)
+((~p V □(r→◊p)) Λ ◊p)
+
+~(((~p V □(r→◊p)) Λ ◊p))
+((xyz))
+
+(q→~r)V(□◊qΛ~◊□p)
+(□(p→q) Λ □(p→~q) )→ ~◊p
+
+(q→~r)V(□◊q Λ ~◊□p)
+(◊pΛ◊~q) Λ (~□q → □~p)
+◊(pΛq) → (◊p Λ ◊q)
+(q Λ (◊p Λ □(p → □~p)))
+(q Λ (◊p Λ □(p → □~q)))
+◊p Λ (□(p → ◊p))
+◊(pΛq) → (◊p Λ ◊q)
+◊(pΛq) → (◊p → ◊q)
+◊(p→q) → (◊p → ◊q)
+(◊pΛ◊~q) Λ (~□q → □~p)
+□(p→q)→(□p→□q)
+□(p→□◊p)
+
+
+(p Λ ((□(p→q) Λ □(p→~q) )→ ~◊p))
+
+
+
+
+
+
+
+((qV(◊pV□(p→□~q))))
+
+□◊p Λ □□q
+
+((p Λ q) → r) → (p → (~q V r))
+
+◊pΛ(□(p→◊p))
+
+(qV(◊pV□(p→□~q)))
+□◊x
+~~~p
+(qΛ(◊pΛ□(p→□~p)))
+◊(p V q) → (◊p V ◊q)
+
+◊□pΛ□□q
+◊(p V q) → (◊p V ◊q)
+(□p Λ □q) → □r
+□(p→◊p)
+□◊x
+
+~(p→q)
+(((qV(◊pV□(p→□~q))
+□◊p
+◊(p V q) → (◊p V ◊q)
+
+□(p V q) → (□p V □q)
+p V q V r
+
+◊◊◊◊◊◊◊◊◊◊◊◊p
+□(q→(pΛq))→(□q→□(pΛq))
+□p→v□(q→(pΛq))
+□(p→(q→(pΛq)))
+(□p→p)
+◊(p V q) → (◊p V ◊q)
+((p Λ q) → r) → (p → (~q V r))
+
+
+()◊□→Λ↔V~
+(◊(p V q) Λ (◊p V ◊q)) V (p → ~q)

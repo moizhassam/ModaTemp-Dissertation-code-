@@ -1,0 +1,29 @@
+﻿
+
+
+
+-----------------------Previous test case formulas-----------------------------------------
+(◊pΛ◊~q) Λ (~□q → □~p)
+(□(pVq))Λ(□~pΛ~(□qV□r))
+
+◊(pVq)Λ□(~pΛ~q) 
+◊(pVq)Λ□(~pV~q) 
+(◊pΛ□(p→◊~p))Λ□(~p→◊p)
+(q Λ (◊p Λ □(p → □~q))) s4 sat and valid
+(q Λ (◊p Λ □(p → □~p))) s4 valid and sat correct 
+◊p Λ (□(p → ◊p)) s4 valid and sat correct
+◊(p→q) → (◊p → ◊q)
+◊(pΛq) → (◊p Λ ◊q)
+◊(pΛq) → (◊p → ◊q)
+(□(p→q) Λ □(p→~q) )→ ~◊p)
+(◊pΛ◊~q) Λ (~□q → □~p)
+□(p→q)→(□p→□q)
+-----------------------Above OLD FORMULAS-----------------------
+
+(~qΛ~□((~◊q→p)→◊p))Λ□r
+(~rΛ~□((~◊q→◊p)→□p))Λ□r s5 correct (expand and check again)
+(~qΛ~□((~◊q→◊p)→□p))Λ□r s5 correct
+(~qΛ~□((~◊q→p)→p))Λ□r k4 correct 
+((◊□pV◊□q)V◊p)Λ~□p s5 correct
+
+---------------ABOVE NEW FORMULAS----------------------------------------

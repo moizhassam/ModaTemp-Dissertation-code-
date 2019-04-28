@@ -1,0 +1,7 @@
+C:\Users\Moiz Hassam\Desktop\final diss submit\Temporal Tense Logic\TextAnalyzer\bin\Debug\Equations.txt
+C:\Users\Moiz Hassam\Desktop\final diss submit\Temporal Tense Logic\TextAnalyzer\bin\Debug\TextAnalyzer.exe.config
+C:\Users\Moiz Hassam\Desktop\final diss submit\Temporal Tense Logic\TextAnalyzer\bin\Debug\TextAnalyzer.exe
+C:\Users\Moiz Hassam\Desktop\final diss submit\Temporal Tense Logic\TextAnalyzer\bin\Debug\TextAnalyzer.pdb
+C:\Users\Moiz Hassam\Desktop\final diss submit\Temporal Tense Logic\TextAnalyzer\obj\Debug\TextAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Moiz Hassam\Desktop\final diss submit\Temporal Tense Logic\TextAnalyzer\obj\Debug\TextAnalyzer.exe
+C:\Users\Moiz Hassam\Desktop\final diss submit\Temporal Tense Logic\TextAnalyzer\obj\Debug\TextAnalyzer.pdb
